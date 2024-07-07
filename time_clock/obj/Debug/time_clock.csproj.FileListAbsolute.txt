@@ -1,0 +1,11 @@
+C:\Users\matanel\source\repos\time_clock\time_clock\bin\Debug\time_clock.exe.config
+C:\Users\matanel\source\repos\time_clock\time_clock\bin\Debug\time_clock.exe
+C:\Users\matanel\source\repos\time_clock\time_clock\bin\Debug\time_clock.pdb
+C:\Users\matanel\source\repos\time_clock\time_clock\obj\Debug\time_clock.csproj.AssemblyReference.cache
+C:\Users\matanel\source\repos\time_clock\time_clock\obj\Debug\time_clock.Form1.resources
+C:\Users\matanel\source\repos\time_clock\time_clock\obj\Debug\time_clock.Properties.Resources.resources
+C:\Users\matanel\source\repos\time_clock\time_clock\obj\Debug\time_clock.csproj.GenerateResource.cache
+C:\Users\matanel\source\repos\time_clock\time_clock\obj\Debug\time_clock.csproj.CoreCompileInputs.cache
+C:\Users\matanel\source\repos\time_clock\time_clock\obj\Debug\time_clock.exe
+C:\Users\matanel\source\repos\time_clock\time_clock\obj\Debug\time_clock.pdb
+C:\Users\matanel\source\repos\time_clock\time_clock\obj\Debug\time_clock.FrmChangePassword.resources
